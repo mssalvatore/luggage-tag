@@ -10,3 +10,6 @@ printed frame.
 
 This produces fully printed tags.
 Source: https://www.printables.com/model/140879-customizable-luggage-bag-tag
+
+The ODG file, sewable-tags.odg, produces tags suitable for sewing onto 1"
+webbing.
